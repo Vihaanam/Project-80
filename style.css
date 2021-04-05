@@ -1,0 +1,30 @@
+#span_right {
+    float: right;
+}
+#span_left {
+    float: left;
+}
+.border_button {
+    border-top-color: lightgreen !important;
+    border-left-color: lightgreen !important;
+    border-bottom-color: darkgreen !important;
+    border-right-color: darkgreen !important;
+}
+input {
+    width: 250px;
+    border-width: 3px;
+    border-color: lightgray;
+    border-style: ridge;
+}
+#sectioner {
+    position: absolute;
+    padding-top: 400px;
+    font-size: 25px;
+}
+.paragraph {
+    border-width: 5px;
+    border-color: lightgray;
+    border-style: groove;
+    display: none;
+    padding: 10px;
+}
